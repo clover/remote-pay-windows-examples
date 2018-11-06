@@ -1,5 +1,5 @@
-# Clover, Inc Remote Pay Windows Examples
-[Clover Windows Examples](github.com/clover/remote-pay-windows-examples) [Clover Windows SDK](github.com/clover/remote-pay-windows) [Clover, Inc](http://clover.com)
+# Clover, Inc. Remote Pay Windows Examples
+[Clover Windows Examples](github.com/clover/remote-pay-windows-examples) &bull; [Clover Windows SDK](github.com/clover/remote-pay-windows) &bull; [Clover, Inc](http://clover.com)
 
 
 ## Samples
