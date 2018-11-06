@@ -1,0 +1,24 @@
+*.exe
+*.o
+*.zip
+
+#Nuget files
+*.nupkg
+[Oo]utput/
+
+#VisualStudio Structures
+.suo
+*.suo
+*.cache
+*.user
+
+#Visual Studio / Resharper
+*.DotSettings
+*.DotSettings.user
+
+#VisualStudio Directories
+.vs/
+[Bb]in/
+[Oo]bj/
+build/
+[Dd]ebug/
