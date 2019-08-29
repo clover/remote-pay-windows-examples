@@ -19,6 +19,6 @@ A simple Secure Network Pay Display (SNPD) / WebSocket Transport connection exam
 
 ![SnpdConnectionExample](resources/SnpdConnectionExample-Screenshot.png)
 
-This example shows the simplest WebSocket Transport / SNPD connection to a device with no extra features to disguise the connection code. It uses the 
+This example shows the simplest WebSocket Transport / SNPD connection to a device with no extra features to disguise the connection code. It uses the SDK's convenience CloverEventConnector wrapper to simplify down to minimal communication noise.
 
 Open project file _SnpdConnectionExample\SnpdConnectionExample.sln_ .
