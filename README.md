@@ -12,3 +12,13 @@ A simple calculator-style sales app to take sales with a Clover Device. Source c
 Similar to the Clover iOS Keypad Example, this example shows a very simple sale transaction flow in context of a touchscreen-friendly calculator. It also shows how simple copy and paste of a sale total amount from another application can work as the simplest of integrations. 
 
 Open project file _SalesKeypad\SalesKeypad.sln_ or see [github releases](https://github.com/clover/remote-pay-windows-examples/releases) for a download-and-run version.
+
+
+### SnpdConnectionExample
+A simple Secure Network Pay Display (SNPD) / WebSocket Transport connection example using the CloverEventConnector convenience wrapper.
+
+![SnpdConnectionExample](resources/SnpdConnectionExample-Screenshot.png)
+
+This example shows the simplest WebSocket Transport / SNPD connection to a device with no extra features to disguise the connection code. It uses the SDK's convenience CloverEventConnector wrapper to simplify down to minimal communication noise.
+
+Open project file _SnpdConnectionExample\SnpdConnectionExample.sln_ .
